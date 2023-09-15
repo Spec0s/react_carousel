@@ -1,0 +1,2 @@
+.App{align-items:center}.App,.Inputs,.Inputs__input{display:flex;flex-direction:column}.Inputs__button{cursor:pointer}body{overflow:hidden}.Carousel{position:relative}.Carousel__container{overflow:hidden}.Carousel__list{overflow:hidden;display:flex;flex-direction:row;padding:0}.Carousel__list-item{list-style:none}.Carousel__button{position:absolute;cursor:pointer;width:40px;height:40px;border-radius:50%;top:calc(50% - 20px)}.Carousel__button-Prev{left:-40px}.Carousel__button-Next{right:-40px}
+/*# sourceMappingURL=main.48785e95.chunk.css.map */
